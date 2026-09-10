@@ -12,4 +12,4 @@ def quick_sort(arr):
 my_list = [38, 27, 43, 3, 9, 82, 10]
 
 sorted_list = quick_sort(my_list)
-print("Sorted List:", sorted_list)
+print("Quick sorted List:", sorted_list)
